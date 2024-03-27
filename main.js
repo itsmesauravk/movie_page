@@ -39,3 +39,5 @@ function displayMovieResults(results) {
 function displayError(errorMessage) {
   movieResults.innerHTML = `<p class="error">${errorMessage}</p>`;
 }
+
+console.log("Sanjeet")
